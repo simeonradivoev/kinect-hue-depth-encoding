@@ -2,7 +2,7 @@
 
 Using a Kinect v1 and encoding its depth into a video file as a hue range, it can later be used to playback point-cloud animations. This is just a test project.
 
-<video src='https://i.imgur.com/MxalX6x.mp4' width=720></video>
+[![ezgif com-gif-maker](https://user-images.githubusercontent.com/9950198/171508651-ef7784cd-d833-4b34-abff-d8520e722299.gif)](https://gfycat.com/grimymediocreilsamochadegu)
 
 ## Plugins Used
 * [Kinect with MS-SDK](https://assetstore.unity.com/packages/tools/kinect-with-ms-sdk-7747)
