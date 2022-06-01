@@ -13,6 +13,11 @@ Using a Kinect v1 and encoding its depth into a video file as a hue range, it ca
 * `F2` Records to a video file that will be located in the root project directory
 * `Tab` Switch between sources. Kinect, Custom file, or video.
 
+## Requirments
+* Unity Version `2019.3`
+* Kinect SDK `1.8` or Runtime `1.8`. For Recording Kinect
+* Kinect `V1` For Recording
+
 ## Playing
 Start by opening the scene `Scenes/DepthMapTest`.
 There is a sample video included that can be played by pressing `Tab` and switching to the video provider. The object `Player/Video Provider` must be enabled and active in the scene for it to be seen.
