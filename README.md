@@ -29,4 +29,10 @@ For recording a video you need a Kinect V1 camera and the installed drivers.
 Recorded Videos will be located in the root project folder.
 The Project uses FFmpeg and in the scene object `Player` you can change the preset or add additional parameters. Check FFmpegOut for more information
 
+## Use Cases
+It can be used in VR or in games to play acted scenes.
+In VR it does look pretty cool [Reddit Post](https://www.reddit.com/r/Unity3D/comments/h8tcd3/vr_kinect_point_cloud_data_in_real_time/)
+
+## Videos
+
 [![Youtube HQ Video](https://user-images.githubusercontent.com/9950198/171511037-a48738b2-83d9-4c2f-b1b0-84815de53083.png)](https://www.youtube.com/watch?v=k82eHmQt8zo)
